@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="109"
+   name=""
+   committed-date="2011-08-03T15:52:39.027751Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/uk/ac/gla/terrier/compression"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="109"
+   name="BitInputStream.java"
+   text-time="2011-08-04T07:47:02.587085Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="e024b290e0b906b0fde5091c9fce4f39"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:02.493485Z"/>
+<entry
+   committed-rev="109"
+   name="BitUtilities.java"
+   text-time="2011-08-04T07:47:02.602685Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="deb67de6c58a67f76ea96aaa2c2bf878"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:02.509085Z"/>
+<entry
+   committed-rev="109"
+   name="BitOutputStream.java"
+   text-time="2011-08-04T07:47:02.649485Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="9fc3ec9fb2303f3285c392ab77f84b05"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:02.540285Z"/>
+</wc-entries>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="26"
+   name=""
+   committed-date="2011-06-30T20:41:36.587650Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/com/twitter/corpus/data"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="26"
+   name="StatusStream.java"
+   text-time="2011-07-10T13:07:50.832004Z"
+   committed-date="2011-06-30T20:41:36.587650Z"
+   checksum="2dbe272712e6cbf803147b63fd7d9298"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.707204Z"/>
+<entry
+   committed-rev="26"
+   name="Status.java"
+   text-time="2011-07-10T13:07:50.832004Z"
+   committed-date="2011-06-30T20:41:36.587650Z"
+   checksum="10ca1dedd2d360e8ec750076dea4d73c"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.722804Z"/>
+<entry
+   committed-rev="26"
+   name="HtmlStatusExtractor.java"
+   text-time="2011-07-10T13:07:50.878805Z"
+   committed-date="2011-06-30T20:41:36.587650Z"
+   checksum="7db1bda0e7a8b47a71dffd605ed63a65"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.738404Z"/>
+<entry
+   committed-rev="26"
+   name="HtmlStatusBlockReader.java"
+   text-time="2011-07-10T13:07:50.910005Z"
+   committed-date="2011-06-30T20:41:36.587650Z"
+   checksum="d839baccb38d2fbdb7264b3447b8df40"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.785204Z"/>
+<entry
+   committed-rev="26"
+   name="HtmlStatusCorpusReader.java"
+   text-time="2011-07-10T13:07:50.925605Z"
+   committed-date="2011-06-30T20:41:36.587650Z"
+   checksum="01671501f1068596490abb8324ce4d9d"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.800804Z"/>
+<entry
+   committed-rev="26"
+   name="HtmlStatus.java"
+   text-time="2011-07-10T13:07:50.925605Z"
+   committed-date="2011-06-30T20:41:36.587650Z"
+   checksum="d548c581db654f73674625a2169ae7e7"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.816404Z"/>
+</wc-entries>

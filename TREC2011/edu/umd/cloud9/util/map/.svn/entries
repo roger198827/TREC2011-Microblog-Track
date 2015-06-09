@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2011-07-06T21:05:36.194506Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/util/map"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="42"
+   name="MapII.java"
+   text-time="2011-07-10T13:07:49.708803Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="f0d4e3360405242fc1c0393a1009aa67"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.240802Z"/>
+<entry
+   committed-rev="42"
+   name="MapKI.java"
+   text-time="2011-07-10T13:07:49.724403Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="3160c6a61ce3dd509ca62f40058aa1c2"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.256402Z"/>
+<entry
+   committed-rev="42"
+   name="MapIL.java"
+   text-time="2011-07-10T13:07:49.755603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="f89f02b1167bca66ccb94e934dd5c5e8"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.272002Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIF.java"
+   text-time="2011-07-10T13:07:49.786803Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="1ac7905b2f2a46ae957e912903928b13"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.318802Z"/>
+<entry
+   committed-rev="42"
+   name="MapKL.java"
+   text-time="2011-07-10T13:07:49.771203Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="76bb182f12bdffd611a9a1218f19adfd"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.303202Z"/>
+<entry
+   committed-rev="42"
+   name="HMapKF.java"
+   text-time="2011-07-10T13:07:49.786803Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="98ac1098861a7183f9e8f5f737bab11a"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.318802Z"/>
+<entry
+   committed-rev="42"
+   name="HMapII.java"
+   text-time="2011-07-10T13:07:49.802403Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="0c125777861b6b0933eb668f76c9d684"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.334402Z"/>
+<entry
+   committed-rev="42"
+   name="MapIS.java"
+   text-time="2011-07-10T13:07:49.818003Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="d0c075542e0c51751ce79fcebbd75612"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.615202Z"/>
+<entry
+   committed-rev="42"
+   name="HMapKI.java"
+   text-time="2011-07-10T13:07:49.802403Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="847f3da82f9338ea35261518493f4649"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.599602Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIL.java"
+   text-time="2011-07-10T13:07:49.818003Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="9349026b1ce51d1582b2ad0271166b24"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.630802Z"/>
+<entry
+   committed-rev="42"
+   name="MapKS.java"
+   text-time="2011-07-10T13:07:49.833603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="307e948cf1b9c4aefa6cf0b67123e33a"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.646402Z"/>
+<entry
+   committed-rev="42"
+   name="MapIV.java"
+   text-time="2011-07-10T13:07:49.833603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="c3d2a914fa0b232ff90c9ca6d051b52e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.662002Z"/>
+<entry
+   committed-rev="42"
+   name="HMapKL.java"
+   text-time="2011-07-10T13:07:49.833603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="ee63d35e8fc1c61b64290511d2d65ef5"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.646402Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIS.java"
+   text-time="2011-07-10T13:07:49.849203Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="25177e1c0c6d39f5f9af3eac82c5a192"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.662002Z"/>
+<entry
+   committed-rev="42"
+   name="HMapKS.java"
+   text-time="2011-07-10T13:07:49.849203Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="f1900a5420e42c77adeb7ddbc8e6cea0"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.677602Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIV.java"
+   text-time="2011-07-10T13:07:49.864803Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="7b1af404006260f4e4dd4e9a66bb23a4"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.677602Z"/>
+<entry
+   committed-rev="42"
+   name="MapIF.java"
+   text-time="2011-07-10T13:07:49.864803Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="af106b9c5d5edcba138a2403d022f8ae"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.677602Z"/>
+<entry
+   committed-rev="42"
+   name="MapKF.java"
+   text-time="2011-07-10T13:07:49.989603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="7e7104a7e06790d54c691d41ec93fd15"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.693202Z"/>
+</wc-entries>

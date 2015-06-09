@@ -1,0 +1,77 @@
+package sa.edu.kaust.twitter.retrieval;
+
+import java.io.BufferedInputStream;
+import java.io.BufferedWriter;
+import java.io.DataInputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileWriter;
+import java.util.StringTokenizer;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FileSystem;
+
+import sa.edu.kaust.twitter.data.TweetWritable;
+import sa.edu.kaust.twitter.index.TweetsForwardIndex;
+
+public class evaluation {
+	
+	public static void main(String[] args)
+	{
+		//1 : path of tweets collection
+		//2 : file path of forward index
+		//3 : qrel path
+		File file = new File(args[2]);
+	    FileInputStream fis = null;
+	    BufferedInputStream bis = null;
+	    DataInputStream dis = null;
+	    String ALine, tweetID="";
+	    //FileWriter fstream;
+	    try {
+	        fis = new FileInputStream(file);
+	        // Here BufferedInputStream is added for fast reading.
+	        bis = new BufferedInputStream(fis);
+	        dis = new DataInputStream(bis);
+	        //fstream = new FileWriter(filePath+".xml");
+	        //BufferedWriter out = new BufferedWriter(fstream);
+	        //out.write("<root>\n");
+	        Configuration conf = new Configuration();
+
+			TweetsForwardIndex index = new TweetsForwardIndex(args[0], args[1], FileSystem.get(conf));
+	        while (dis.available() != 0) {	        	
+	           ALine=dis.readLine();
+	           //out.write(ALine+"\n");
+	           StringTokenizer tokens = new StringTokenizer(ALine);
+	           int queryNumber=0;
+	           for (int y=0;y<3;y++) 
+	        	   {
+	        	   		if (y==0) queryNumber=Integer.parseInt(tokens.nextToken());
+	        	   		else if (y==2) tweetID=tokens.nextToken();
+	        	   		else
+	        	   			{
+	        	   				tweetID="";
+	        	   				tokens.nextToken();
+	        	   			}
+	        	   }
+	           if (tokens.nextToken().equalsIgnoreCase("2") /*&& (queryNumber==17 || queryNumber==10 || queryNumber==21 || queryNumber==22 || queryNumber==25 || queryNumber==38 || queryNumber==42 || queryNumber==45)*/)
+	           {
+	        	   System.out.println(ALine);
+	           //get the tweet if the tweetID has "2" as its code
+	        	   {
+	        	   TweetWritable pl = index.getValue(Long.parseLong(tweetID));
+					if(pl == null)
+						System.out.println(tweetID + " not found!");
+					else System.out.println(tweetID + ": " + pl);
+	        	   }
+	           }
+	        }
+	        //out.write("</root>");
+	        //out.close();
+	        fis.close();
+	        bis.close();
+	        dis.close();
+	}catch (Exception e) {
+	    e.printStackTrace();
+	  }
+	}
+}

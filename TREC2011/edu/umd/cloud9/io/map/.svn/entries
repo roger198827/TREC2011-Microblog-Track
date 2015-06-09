@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2011-07-06T21:05:36.194506Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/io/map"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="42"
+   name="HMapKIW.java"
+   text-time="2011-07-10T13:07:48.601201Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="7d9a196165253d26d55925528592d7ba"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.523200Z"/>
+<entry
+   committed-rev="42"
+   name="HMapSFW.java"
+   text-time="2011-07-10T13:07:48.601201Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="30c8acef49fbc8d2dac922061615177e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.523200Z"/>
+<entry
+   committed-rev="42"
+   name="HMapSIW.java"
+   text-time="2011-07-10T13:07:48.632401Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="1a7206ab522ecdd470a0e4f553c6377c"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.538800Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIFW.java"
+   text-time="2011-07-10T13:07:48.663601Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="cd7092b0070525e5a2b651288e5f0621"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.570001Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIVW.java"
+   text-time="2011-07-10T13:07:48.679201Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="ac86a6cf3bc75865f428eecc52ec824f"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.570001Z"/>
+<entry
+   committed-rev="42"
+   name="HashMapWritable.java"
+   text-time="2011-07-10T13:07:48.679201Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="741cb08dbcb5ff21a5918ba5be7daf5e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.585601Z"/>
+<entry
+   committed-rev="42"
+   name="HMapKFW.java"
+   text-time="2011-07-10T13:07:48.694801Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="702f837e64e27c4253f5254c0b7d7b46"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.585601Z"/>
+<entry
+   committed-rev="42"
+   name="HMapIIW.java"
+   text-time="2011-07-10T13:07:48.694801Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="be412e4575c6c7dd758d74dd3bb1ac8f"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.585601Z"/>
+</wc-entries>

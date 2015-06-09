@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="43"
+   name=""
+   committed-date="2011-07-06T21:06:09.758402Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/util/pair"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="43"
+   name="PairOfObjectDouble.java"
+   text-time="2011-07-10T13:07:49.131601Z"
+   committed-date="2011-07-06T21:06:09.758402Z"
+   checksum="d7575d64055a16d73d5102283a08c279"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.084801Z"/>
+<entry
+   committed-rev="43"
+   name="PairOfObjectInt.java"
+   text-time="2011-07-10T13:07:49.131601Z"
+   committed-date="2011-07-06T21:06:09.758402Z"
+   checksum="ab6276af034af736826defd1c65733d2"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.084801Z"/>
+<entry
+   committed-rev="43"
+   name="PairOfObjectLong.java"
+   text-time="2011-07-10T13:07:49.162802Z"
+   committed-date="2011-07-06T21:06:09.758402Z"
+   checksum="f95f636edfeadfc88cda361b82b30a44"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.100401Z"/>
+<entry
+   committed-rev="43"
+   name="PairOfObjectShort.java"
+   text-time="2011-07-10T13:07:49.194002Z"
+   committed-date="2011-07-06T21:06:09.758402Z"
+   checksum="8117e43445f8abe26841ef1f58bd920f"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.116001Z"/>
+<entry
+   committed-rev="43"
+   name="PairOfObjects.java"
+   text-time="2011-07-10T13:07:49.194002Z"
+   committed-date="2011-07-06T21:06:09.758402Z"
+   checksum="5e37a29fcd22458195334cc77a01a4e1"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.116001Z"/>
+<entry
+   committed-rev="43"
+   name="PairOfObjectFloat.java"
+   text-time="2011-07-10T13:07:49.209602Z"
+   committed-date="2011-07-06T21:06:09.758402Z"
+   checksum="4989d8065592b6a5551a142ab3626f30"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:49.116001Z"/>
+</wc-entries>

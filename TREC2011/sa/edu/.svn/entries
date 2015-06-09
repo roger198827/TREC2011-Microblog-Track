@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="254"
+   name=""
+   committed-date="2011-10-13T13:52:43.321664Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu"
+   last-author="laila"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   name="kaust"
+   kind="dir"/>
+</wc-entries>

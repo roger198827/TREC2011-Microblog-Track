@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="141"
+   name=""
+   committed-date="2011-08-06T20:30:24.942705Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/utils"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="62"
+   name="TestUtils.java"
+   text-time="2011-08-02T07:25:39.062296Z"
+   committed-date="2011-07-17T09:35:23.873453Z"
+   checksum="feaf9445bbb1c677eaf7c275dbe33814"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-02T07:25:39.046696Z"/>
+<entry
+   committed-rev="98"
+   name="TweetFile.java"
+   text-time="2011-07-10T13:18:47.655159Z"
+   committed-date="2011-08-02T08:22:00.276779Z"
+   checksum="a7f0b7fbed3cd5bfcb64c8f840e04939"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-04T07:47:00.184681Z"/>
+<entry
+   committed-rev="62"
+   name="Util.java"
+   text-time="2011-08-02T07:25:39.077896Z"
+   committed-date="2011-07-17T09:35:23.873453Z"
+   checksum="9bbb8afb1ae305fdb81d2fbe773df10e"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-02T07:25:39.062296Z"/>
+<entry
+   committed-rev="141"
+   name="UrlExtractionAndNormalization.java"
+   text-time="2011-08-06T20:41:48.343032Z"
+   committed-date="2011-08-06T20:30:24.942705Z"
+   checksum="ea9e35b5edfbb020c2f01b8a5c183a27"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-06T20:41:48.326031Z"/>
+</wc-entries>

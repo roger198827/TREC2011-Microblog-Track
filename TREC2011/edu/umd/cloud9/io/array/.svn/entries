@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2011-07-06T21:05:36.194506Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/io/array"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfFloatsWritable.java"
+   text-time="2011-07-10T13:07:48.850801Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="3cc4c455fccf6c5ef02d14ff334afa32"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.741601Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListWritable.java"
+   text-time="2011-07-10T13:07:48.866401Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="1e9b6ffa1dcbc96d4624a6f54f82e363"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.741601Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfDoublesWritable.java"
+   text-time="2011-07-10T13:07:48.897601Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="e52a98abf1da02dc23b581dfce5f0c9e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.757201Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfIntsWritable.java"
+   text-time="2011-07-10T13:07:48.913201Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="1ca1d16c28b56841d0667c5f9560920d"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.788401Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListWritableComparable.java"
+   text-time="2011-07-10T13:07:48.928801Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="fbf9d464515c595eddb1b02b48a983d2"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.804001Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfLongsWritable.java"
+   text-time="2011-07-10T13:07:48.944401Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="07081ba00793706fddd9e29cce6072c4"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.819601Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfShortsWritable.java"
+   text-time="2011-07-10T13:07:48.960001Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="655612e61ff61fcb84bc07403e2f3db9"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.835201Z"/>
+</wc-entries>

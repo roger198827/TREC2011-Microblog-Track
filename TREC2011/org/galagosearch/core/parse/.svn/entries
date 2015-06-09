@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="109"
+   name=""
+   committed-date="2011-08-03T15:52:39.027751Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/org/galagosearch/core/parse"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="109"
+   name="TrecTextParser.java"
+   text-time="2011-08-04T07:47:03.273486Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="fd6c5c47aeca973ea9c26089516acb23"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.117486Z"/>
+<entry
+   committed-rev="109"
+   name="Utility.java"
+   text-time="2011-08-04T07:47:03.289086Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="841ef8253530d86db7b86a9cacfddf94"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.133086Z"/>
+<entry
+   committed-rev="109"
+   name="TagTokenizer.java"
+   text-time="2011-08-04T07:47:03.320286Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="f1c915a7863c87e55db73274c1b8edf4"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.133086Z"/>
+<entry
+   committed-rev="109"
+   name="DocumentStreamParser.java"
+   text-time="2011-08-04T07:47:03.398286Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="18201bbf7a8a83d098d6875ecc41a042"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.179886Z"/>
+<entry
+   committed-rev="109"
+   name="StringPooler.java"
+   text-time="2011-08-04T07:47:03.413886Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="19d44824814b549666a4f4f8d216ce72"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.211086Z"/>
+<entry
+   committed-rev="109"
+   name="TrecWebParser.java"
+   text-time="2011-08-04T07:47:03.429486Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="bfb7f73a5c39851761ee747a8d93884d"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.226686Z"/>
+<entry
+   committed-rev="109"
+   name="Tag.java"
+   text-time="2011-08-04T07:47:03.445086Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="78597cd440982d2dfc6246cd8a5e078a"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.242286Z"/>
+<entry
+   committed-rev="109"
+   name="Document.java"
+   text-time="2011-08-04T07:47:03.445086Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="c68051e135451b3e93b3a51d529768e5"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.257886Z"/>
+</wc-entries>

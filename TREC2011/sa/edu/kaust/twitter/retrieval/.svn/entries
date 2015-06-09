@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="252"
+   name=""
+   committed-date="2011-10-03T20:36:51.389312Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/retrieval"
+   last-author="laila"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="232"
+   name="QueryParser.java"
+   text-time="2011-08-10T11:36:48.902214Z"
+   committed-date="2011-08-10T09:56:21.151681Z"
+   checksum="4712e98b7753ef037e223dd7ad5b7790"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-10T11:36:48.801209Z"/>
+<entry
+   committed-rev="222"
+   name="TweetScore.java"
+   text-time="2011-08-09T05:07:10.508853Z"
+   committed-date="2011-08-09T04:34:12.318753Z"
+   checksum="2805c06cab9d23cebbbdfa596258a8d8"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-09T05:07:10.337252Z"/>
+<entry
+   committed-rev="190"
+   name="Query.java"
+   text-time="2011-08-08T10:52:59.698101Z"
+   committed-date="2011-08-08T08:58:59.819308Z"
+   checksum="90cd05e6d81f42588a569b0f90357590"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-08T10:52:59.292500Z"/>
+<entry
+   committed-rev="250"
+   name="evaluation.java"
+   text-time="2011-10-03T20:17:20.876415Z"
+   committed-date="2011-10-03T20:13:03.408318Z"
+   checksum="11c6d902cfaab5ec968ef8faf95bc0a7"
+   last-author="laila"
+   kind="file"
+   schedule="delete"
+   prop-time="2011-10-03T20:17:20.831413Z"/>
+<entry
+   name="score"
+   kind="dir"/>
+<entry
+   committed-rev="241"
+   name="QueryEval.java"
+   text-time="2011-10-02T13:04:57.072486Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="a9e55f99f4ea9da3777306c2176b3fa5"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-10T17:53:59.773770Z"/>
+<entry
+   committed-rev="252"
+   name="DriverNoDB.java"
+   text-time="2011-10-03T20:41:31.374379Z"
+   committed-date="2011-10-03T20:36:51.389312Z"
+   checksum="eca28e88a312420f7c0f383afcc73ca3"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-10-03T20:41:31.344377Z"/>
+</wc-entries>

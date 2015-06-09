@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="29"
+   name=""
+   committed-date="2011-07-03T04:23:39.144325Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/com"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   name="twitter"
+   kind="dir"/>
+</wc-entries>

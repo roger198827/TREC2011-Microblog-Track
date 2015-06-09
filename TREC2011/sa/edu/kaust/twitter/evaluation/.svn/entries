@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="254"
+   name=""
+   committed-date="2011-10-13T13:52:43.321664Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/evaluation"
+   last-author="laila"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="254"
+   name="evaluate.java"
+   text-time="2011-10-13T14:19:20.008847Z"
+   committed-date="2011-10-13T13:52:43.321664Z"
+   checksum="52e534b433cd1511fd1be91af3083d79"
+   last-author="laila"
+   kind="file"
+   schedule="delete"
+   prop-time="2011-10-13T14:19:19.988847Z"/>
+<entry
+   committed-rev="254"
+   name="unofficialRuns.java"
+   text-time="2011-10-13T14:19:20.018847Z"
+   committed-date="2011-10-13T13:52:43.321664Z"
+   checksum="e0be25784f54a64b38930d528e449d7d"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-10-13T14:19:19.998847Z"/>
+</wc-entries>

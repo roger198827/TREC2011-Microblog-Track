@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="222"
+   name=""
+   committed-date="2011-08-09T04:34:12.318753Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/dbconnection"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="222"
+   name="NewDb.java"
+   text-time="2011-08-09T05:07:10.618053Z"
+   committed-date="2011-08-09T04:34:12.318753Z"
+   checksum="5981afadeb25d9ab00d6255abee6f7e6"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-09T05:07:10.555653Z"/>
+<entry
+   committed-rev="215"
+   name="Db.java"
+   text-time="2011-08-09T05:07:10.618053Z"
+   committed-date="2011-08-09T00:59:41.478182Z"
+   checksum="b4e9e4c6e95ca09c4898187a8d0909bc"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-09T05:07:10.602453Z"/>
+<entry
+   committed-rev="123"
+   name="MySqlConnection.java"
+   text-time="2011-08-06T20:41:47.559987Z"
+   committed-date="2011-08-06T14:08:12.306721Z"
+   checksum="9b4b7c7d49ab74fc9a7bf15e863226b5"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-06T20:41:47.546987Z"/>
+</wc-entries>

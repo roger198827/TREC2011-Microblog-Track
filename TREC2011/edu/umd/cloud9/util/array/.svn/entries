@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2011-07-06T21:05:36.194506Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/util/array"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfLongs.java"
+   text-time="2011-07-10T13:07:50.130003Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="be4a0ead552c5125e71cfcc8fd87f999"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.067603Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfShorts.java"
+   text-time="2011-07-10T13:07:50.145603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="2b9b5c088cba9e2c35e66a6bc9055582"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.067603Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfFloats.java"
+   text-time="2011-07-10T13:07:50.223603Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="e1a38cb42088506608452daf56e3d97d"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.083203Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfDoubles.java"
+   text-time="2011-07-10T13:07:50.254803Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="4c0306a183a615421684d6107d9f1f8e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.114403Z"/>
+<entry
+   committed-rev="42"
+   name="ArrayListOfInts.java"
+   text-time="2011-07-10T13:07:50.270403Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="04f5b6af7f7228261445e287879f135f"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.114403Z"/>
+</wc-entries>

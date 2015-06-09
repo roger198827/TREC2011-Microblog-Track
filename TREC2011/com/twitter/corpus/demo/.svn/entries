@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="29"
+   name=""
+   committed-date="2011-07-03T04:23:39.144325Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/com/twitter/corpus/demo"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="29"
+   name="ReadStatuses.java"
+   text-time="2011-07-10T13:07:50.660404Z"
+   committed-date="2011-07-03T04:23:39.144325Z"
+   checksum="b52f76549d770cb3e20672d4cf9f8167"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:50.629204Z"/>
+</wc-entries>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="177"
+   name=""
+   committed-date="2011-08-07T20:04:46.251293Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/io"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="28"
+   name="WritableComparatorUtils.java"
+   text-time="2011-07-10T13:07:48.975601Z"
+   committed-date="2011-06-30T21:27:48.578671Z"
+   checksum="8bccb56bec1bb45bf5595ceec90f27cc"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.055200Z"/>
+<entry
+   committed-rev="149"
+   name="ReadSequenceFile.java"
+   text-time="2011-07-12T01:28:39.810320Z"
+   committed-date="2011-08-06T20:52:42.051904Z"
+   checksum="1bc9611a40d5b47221a844a1b21a0082"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.070800Z"/>
+<entry
+   committed-rev="28"
+   name="SequenceFileUtils.java"
+   text-time="2011-07-10T13:07:49.006801Z"
+   committed-date="2011-06-30T21:27:48.578671Z"
+   checksum="8fa6af9ff8a748089aac6ad5c6cd7f7b"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.070800Z"/>
+<entry
+   name="pair"
+   kind="dir"/>
+<entry
+   name="map"
+   kind="dir"/>
+<entry
+   committed-rev="177"
+   name="FSProperty.java"
+   text-time="2011-08-07T20:44:28.100886Z"
+   committed-date="2011-08-07T20:04:46.251293Z"
+   checksum="77e537d62595e9ccf06fd88cdfe8a85b"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T20:44:28.084885Z"/>
+<entry
+   name="array"
+   kind="dir"/>
+</wc-entries>

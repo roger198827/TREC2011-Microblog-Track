@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="109"
+   name=""
+   committed-date="2011-08-03T15:52:39.027751Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/edu/umd/cloud9/io/pair"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="42"
+   name="PairOfIntLong.java"
+   text-time="2011-07-10T13:07:48.273600Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="4463e16fff59966819558bdaac9381c5"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.086400Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfLongInt.java"
+   text-time="2011-07-10T13:07:48.289200Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="0e268d379567c6bee1902aa8862d4fd7"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.102000Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfInts.java"
+   text-time="2011-07-10T13:07:48.320400Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="46f6682c7b3b2e0b04fe77001a21cedd"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.117600Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfFloatInt.java"
+   text-time="2011-07-10T13:07:48.336000Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="3117690c549a599f605f84c627099cb4"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.133200Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfIntFloat.java"
+   text-time="2011-07-10T13:07:48.351600Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="231b032d029425a129c3e97006aab407"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.133200Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfIntString.java"
+   text-time="2011-07-10T13:07:48.351600Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="5f33a13cc01fe0abbe5cdb55e8d39f14"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.148800Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfStringInt.java"
+   text-time="2011-07-10T13:07:48.367200Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="3cb1188d7770a9f3672023d7bc31e5d8"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.148800Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfLongs.java"
+   text-time="2011-07-10T13:07:48.382800Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="a36eba195a4ddb3ab2049fba7eb17fa9"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.148800Z"/>
+<entry
+   committed-rev="109"
+   name="PairOfFloatLong.java"
+   text-time="2011-08-04T07:47:01.994284Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="f471483e2fb00aea3d87f534b86ae7e3"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:01.963084Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfLongFloat.java"
+   text-time="2011-07-10T13:07:48.382800Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="d411a5ca79b34863eb8db299a9b1e26a"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.164400Z"/>
+<entry
+   committed-rev="28"
+   name="PairOfLongString.java"
+   text-time="2011-07-10T13:07:48.398400Z"
+   committed-date="2011-06-30T21:27:48.578671Z"
+   checksum="41b57249a506754ecf29335d88837eea"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.164400Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfStringLong.java"
+   text-time="2011-07-10T13:07:48.398400Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="88479c3b85325e6174e9c56a9c834456"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.180000Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfFloats.java"
+   text-time="2011-07-10T13:07:48.414000Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="323d1b7a3ffb3ad2a201b5a5cabf79b2"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.180000Z"/>
+<entry
+   committed-rev="85"
+   name="PairOfStrings.java"
+   text-time="2011-07-31T08:21:01.811804Z"
+   committed-date="2011-07-31T08:21:22.209312Z"
+   checksum="c4c54d0c4e9662538ba6fcd846e77664"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.180000Z"/>
+<entry
+   committed-rev="42"
+   name="Pair.java"
+   text-time="2011-07-10T13:07:48.429600Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="8aa7f31fcaf7b4dc73c30207885263c4"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.180000Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfFloatString.java"
+   text-time="2011-07-10T13:07:48.429600Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="aaa28cba472280f553418ef4a63cebf1"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.195600Z"/>
+<entry
+   committed-rev="42"
+   name="PairOfStringFloat.java"
+   text-time="2011-07-10T13:07:48.460800Z"
+   committed-date="2011-07-06T21:05:36.194506Z"
+   checksum="6d611b03e96bb16ddd9e2705a59bf317"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.226800Z"/>
+<entry
+   committed-rev="28"
+   name="PairOfWritables.java"
+   text-time="2011-07-10T13:07:48.476400Z"
+   committed-date="2011-06-30T21:27:48.578671Z"
+   checksum="8362c3030a09cfa46f80030ac0c45ace"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-10T13:07:48.258000Z"/>
+</wc-entries>

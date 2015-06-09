@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="109"
+   name=""
+   committed-date="2011-08-03T15:52:39.027751Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/org/tartarus/snowball"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   name="ext"
+   kind="dir"/>
+<entry
+   committed-rev="109"
+   name="Among.java"
+   text-time="2011-08-04T07:47:03.913087Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="d0321f49542384dafb297d399aba8511"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.866287Z"/>
+<entry
+   committed-rev="109"
+   name="SnowballProgram.java"
+   text-time="2011-08-04T07:47:03.928687Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="db2618361cee2a490fb5279d3ba6e43d"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.881887Z"/>
+<entry
+   committed-rev="109"
+   name="SnowballStemmer.java"
+   text-time="2011-08-04T07:47:03.959887Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="9ec03303e53d811735bbd85a5b08bcdb"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:03.881887Z"/>
+</wc-entries>

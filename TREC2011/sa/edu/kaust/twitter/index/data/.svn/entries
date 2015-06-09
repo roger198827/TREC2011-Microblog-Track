@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="125"
+   name=""
+   committed-date="2011-08-06T14:53:04.152118Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/index/data"
+   last-author="jinling"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="109"
+   name="PostingsReader.java"
+   text-time="2011-08-04T07:47:00.559081Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="e1f9153af589cf59f05bf2fbc5b221c1"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:00.527881Z"/>
+<entry
+   committed-rev="125"
+   name="TweetPostingsList.java"
+   text-time="2011-08-05T18:38:36.739892Z"
+   committed-date="2011-08-06T14:53:04.152118Z"
+   checksum="7e8efaff09d31e436725079912b65a7b"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-04T07:47:00.543481Z"/>
+<entry
+   committed-rev="109"
+   name="TweetPosting.java"
+   text-time="2011-08-04T07:47:00.574681Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="13a6adcf13e80f811cb497ec18c6129f"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:00.543481Z"/>
+</wc-entries>

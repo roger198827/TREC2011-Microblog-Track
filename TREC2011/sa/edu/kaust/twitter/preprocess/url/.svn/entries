@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="241"
+   name=""
+   committed-date="2011-10-02T14:07:14.831052Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/preprocess/url"
+   last-author="jinling"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="241"
+   name="CreateURLCSV.java"
+   text-time="2011-10-02T14:04:43.774297Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="9ff913fe09812b819dcee68735670db2"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-07T17:55:28.614209Z"/>
+<entry
+   committed-rev="241"
+   name="CreateURLTIDCSV.java"
+   text-time="2011-10-02T14:04:57.214065Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="1795b50c41ca7c9ed118a8a55bd48ba0"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-08T17:53:27.497188Z"/>
+<entry
+   committed-rev="241"
+   name="GetUrlRepresentation.java"
+   text-time="2011-10-07T23:46:07.126769Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="e1eee0f8b2f691c4f62b19060e96823e"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-09T05:07:11.257654Z"/>
+<entry
+   committed-rev="176"
+   name="UrlRepresentation.java"
+   text-time="2011-08-07T17:55:28.828221Z"
+   committed-date="2011-08-07T17:35:27.798562Z"
+   checksum="1226b2725329ed0b5cf050dcf7fec277"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T17:55:28.701213Z"/>
+</wc-entries>

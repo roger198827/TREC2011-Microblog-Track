@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="253"
+   name=""
+   committed-date="2011-10-12T10:14:25.262152Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/preprocess/hashtag"
+   last-author="laila"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="253"
+   name="GetHashtagRepresentation.java"
+   text-time="2011-10-13T14:19:19.928847Z"
+   committed-date="2011-10-12T10:14:25.262152Z"
+   checksum="e4d5ee930cc38f1687375887d799c4e3"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-10-13T14:19:19.848847Z"/>
+<entry
+   committed-rev="176"
+   name="HashtagRepresentation.java"
+   text-time="2011-08-07T17:55:28.351193Z"
+   committed-date="2011-08-07T17:35:27.798562Z"
+   checksum="5607389275c706f2b1b41fcad1541d45"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T17:55:28.322192Z"/>
+</wc-entries>

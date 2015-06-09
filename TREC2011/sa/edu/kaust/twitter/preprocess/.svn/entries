@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="253"
+   name=""
+   committed-date="2011-10-12T10:14:25.262152Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/preprocess"
+   last-author="laila"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   name="hashtag"
+   kind="dir"/>
+<entry
+   name="spam"
+   kind="dir"/>
+<entry
+   name="url"
+   kind="dir"/>
+<entry
+   committed-rev="219"
+   name="SetUpDb.java"
+   text-time="2011-08-09T05:07:12.412056Z"
+   committed-date="2011-08-09T03:12:08.441201Z"
+   checksum="91698514446a58bb375c8ed9121361e0"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-08-09T05:07:11.460454Z"/>
+<entry
+   committed-rev="241"
+   name="CreateTweetCSV.java"
+   text-time="2011-10-02T13:14:50.157128Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="3f1f80967428b9d4f6a8d9540fdc5ad7"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-07T17:55:28.925226Z"/>
+<entry
+   committed-rev="241"
+   name="CreateMentionCSV.java"
+   text-time="2011-10-02T13:15:56.675645Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="2f05f25714dd44656640d6b57d2fbde4"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-07T17:55:29.045233Z"/>
+<entry
+   committed-rev="241"
+   name="CreateReplyCSV.java"
+   text-time="2011-10-02T13:15:33.431604Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="1a3e0ad92807acd13d8c2c63b27e7a43"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-07T17:55:29.105237Z"/>
+<entry
+   committed-rev="241"
+   name="DetectRetweets.java"
+   text-time="2011-10-02T13:17:38.575024Z"
+   committed-date="2011-10-02T14:07:14.831052Z"
+   checksum="2714859463429a0d4f7a7bbef0f1b542"
+   last-author="jinling"
+   kind="file"
+   prop-time="2011-08-07T17:55:29.164240Z"/>
+<entry
+   committed-rev="175"
+   name="RemoveNullAndNonEnglishTweets.java"
+   text-time="2011-08-07T17:55:29.993287Z"
+   committed-date="2011-08-07T17:32:10.726832Z"
+   checksum="cc4dc59876eb0005c85c12b3054c7ebd"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T17:55:29.190241Z"/>
+<entry
+   name="user"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="222"
+   name=""
+   committed-date="2011-08-09T04:34:12.318753Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/retrieval/score"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="109"
+   name="GlobalEvidence.java"
+   text-time="2011-08-04T07:47:01.323483Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="7b3dab27b7c6e21b6be513c1b547f9bd"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:01.198682Z"/>
+<entry
+   committed-rev="222"
+   name="TweetScoringFunction.java"
+   text-time="2011-08-09T05:07:10.399653Z"
+   committed-date="2011-08-09T04:34:12.318753Z"
+   checksum="a910cff73c1033cfeef85c677f0ecdbf"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-09T05:07:10.384053Z"/>
+<entry
+   committed-rev="183"
+   name="TFScoringFunction.java"
+   text-time="2011-08-07T21:39:46.013889Z"
+   committed-date="2011-08-07T21:37:39.971322Z"
+   checksum="a66394e3eab94bffd857116f0fd581cc"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T21:39:45.998888Z"/>
+<entry
+   committed-rev="184"
+   name="TFIDFScoringFunction.java"
+   text-time="2011-08-07T23:20:48.931668Z"
+   committed-date="2011-08-07T23:20:10.252682Z"
+   checksum="a2c7d30fd7de5121110961d97a88652e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T23:20:48.918667Z"/>
+<entry
+   committed-rev="109"
+   name="BinaryTFScoringFunction.java"
+   text-time="2011-08-04T07:47:01.385883Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="5f1401544e7d13fcf76c82b52400e3b5"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:01.229882Z"/>
+<entry
+   committed-rev="109"
+   name="ScoringFunction.java"
+   text-time="2011-08-04T07:47:01.417083Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="bf65574af113ac310736adccb125d628"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:01.245482Z"/>
+<entry
+   committed-rev="109"
+   name="GlobalTermEvidence.java"
+   text-time="2011-08-04T07:47:01.432683Z"
+   committed-date="2011-08-03T15:52:39.027751Z"
+   checksum="1a84af8db2f366273e6929ba48d59d1e"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-04T07:47:01.307883Z"/>
+<entry
+   committed-rev="206"
+   name="IDFScoringFunction.java"
+   text-time="2011-08-08T21:02:38.508428Z"
+   committed-date="2011-08-08T21:02:03.419719Z"
+   checksum="5e3019020ec2c5ea00e44ab932382a79"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-08T21:02:38.498428Z"/>
+</wc-entries>

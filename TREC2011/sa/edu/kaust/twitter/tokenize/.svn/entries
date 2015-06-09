@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="181"
+   name=""
+   committed-date="2011-08-07T21:29:39.566089Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/tokenize"
+   last-author="telsayed"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="57"
+   name="TestRetweet.java"
+   text-time="2011-07-20T18:31:47.301533Z"
+   committed-date="2011-07-12T20:26:24.764743Z"
+   checksum="3e27a310f1f50ffefc33771deb3b926d"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-20T18:31:47.240530Z"/>
+<entry
+   committed-rev="181"
+   name="TweetTokenizer.java"
+   text-time="2011-08-07T21:39:45.942885Z"
+   committed-date="2011-08-07T21:29:39.566089Z"
+   checksum="564ea3cfb6baad040a32417e78988fef"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T21:39:45.846879Z"/>
+<entry
+   committed-rev="181"
+   name="TestAnalyzer.java"
+   text-time="2011-08-07T21:39:45.954885Z"
+   committed-date="2011-08-07T21:29:39.566089Z"
+   checksum="bde1e7b87105c16a751d3f62bd88959a"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-07T21:39:45.927884Z"/>
+<entry
+   committed-rev="57"
+   name="TweetToken.java"
+   text-time="2011-07-20T18:31:47.317534Z"
+   committed-date="2011-07-12T20:26:24.764743Z"
+   checksum="75d0fc830fefd33dcf76ce29169956c1"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-07-20T18:31:47.292533Z"/>
+<entry
+   committed-rev="67"
+   name="TestTokenFunctions.java"
+   text-time="2011-07-20T19:34:07.253069Z"
+   committed-date="2011-07-20T19:25:07.574238Z"
+   checksum="843e06ea5d1430003ebc42b8cdc1161e"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-07-20T19:34:07.206268Z"/>
+</wc-entries>

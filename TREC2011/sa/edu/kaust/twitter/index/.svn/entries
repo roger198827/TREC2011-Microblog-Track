@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="248"
+   name=""
+   committed-date="2011-10-03T20:10:03.600315Z"
+   url="svn://10.68.202.47/repos/projects/kaust-twitter-search/trunk/src/sa/edu/kaust/twitter/index"
+   last-author="laila"
+   kind="dir"
+   uuid="dfacf301-090e-4f65-ace9-a047f33dddeb"
+   repos="svn://10.68.202.47/repos/projects/kaust-twitter-search"
+   revision="254"/>
+<entry
+   committed-rev="214"
+   name="BuildPostingsForwardIndex.java"
+   text-time="2011-08-09T05:07:12.770857Z"
+   committed-date="2011-08-09T00:41:39.927497Z"
+   checksum="b6b9d2ece73012ae7ed7c58e5baef506"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-09T05:07:12.724057Z"/>
+<entry
+   committed-rev="247"
+   name="IndexTweets.java"
+   text-time="2011-10-02T20:33:20.211309Z"
+   committed-date="2011-10-02T20:11:18.896729Z"
+   checksum="c32b38479a9cfcc78a1e454ac869afb4"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-10-02T20:33:20.190307Z"/>
+<entry
+   committed-rev="203"
+   name="PostingsForwardIndex.java"
+   text-time="2011-08-08T17:53:29.579307Z"
+   committed-date="2011-08-08T17:47:40.931365Z"
+   checksum="aae50758d2eee093c65fbdf95335f854"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-08T17:53:29.116280Z"/>
+<entry
+   committed-rev="199"
+   name="BuildTweetsForwardIndex.java"
+   text-time="2011-08-08T17:53:29.595308Z"
+   committed-date="2011-08-08T15:11:58.687385Z"
+   checksum="801a2d4f83ff1d0977eb18dd9ae56907"
+   last-author="telsayed"
+   kind="file"
+   prop-time="2011-08-08T17:53:29.443299Z"/>
+<entry
+   committed-rev="248"
+   name="TweetsForwardIndex.java"
+   text-time="2011-10-03T20:11:52.020606Z"
+   committed-date="2011-10-03T20:10:03.600315Z"
+   checksum="0914b7694799889cf76eab7bab65e926"
+   last-author="laila"
+   kind="file"
+   prop-time="2011-10-03T20:11:52.010605Z"/>
+<entry
+   name="data"
+   kind="dir"/>
+</wc-entries>
